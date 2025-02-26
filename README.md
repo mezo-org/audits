@@ -9,4 +9,4 @@ This repository contains the collection of security audits that have been perfor
 | 2024-05-03 | Passport (formerly OrangeKit) smart contracts | Quantstamp | [Report](https://github.com/mezo-org/audits/blob/main/2024-05-03%20-%20Quantstamp%20-%20Passport%20contracts.pdf) |
 | 2024-08-08 | stBTC and Portal smart contracts | Thesis Defense | [Report](https://github.com/mezo-org/audits/blob/main/2024-08-08%20-%20Thesis%20Defense%20-%20stBTC%20contracts.pdf) | 
 | 2024-10-18 | mezod | Halborn | [Report](https://github.com/mezo-org/audits/blob/main/2024-10-18%20-%20Halborn%20-%20mezod.pdf) | 
-| 2024-01-31 | mezod | Halborn | [Report](https://github.com/mezo-org/audits/blob/main/2025-01-31%20-%20Halborn%20-%20mezod.pdf) | 
+| 2025-01-31 | mezod | Halborn | [Report](https://github.com/mezo-org/audits/blob/main/2025-01-31%20-%20Halborn%20-%20mezod.pdf) | 
