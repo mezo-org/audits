@@ -4,9 +4,10 @@ This repository contains the collection of security audits that have been perfor
 
 | Date | Component | Auditor | Report Link |
 | ---- | --------- | ------- | ----------- |
-| 2025-09-10 | MezoBridge smart contract (bridge-out capability) | Thesis Defense | [Report](https://github.com/mezo-org/audits/blob/main/2025-09-10%20-%20Thesis%20Defense%20-%20MezoBridge%20contract.pdf) | 
+| 2025-09-10 | Native bridge | Thesis Defense | [Report](https://github.com/mezo-org/audits/blob/main/2025-09-10%20-%20Thesis%20Defense%20-%20native%20bridge.pdf) | 
+| 2025-09-08 | Native bridge | Halborn | [Report](https://github.com/mezo-org/audits/blob/main/2025-09-08%20-%20Halborn%20-%20native%20bridge.pdf) | 
 | 2025-04-15 | mUSD | Cantina | [Report](https://github.com/mezo-org/audits/blob/main/2025-04-15%20-%20Cantina%20-%20mUSD.pdf) | 
-| 2025-03-18 | mezod | Ottersec | [Report](https://github.com/mezo-org/audits/blob/main/2025-03-18%20-%20OtterSec%20-%20mezod.pdf) | 
+| 2025-03-18 | Native bridge | Ottersec | [Report](https://github.com/mezo-org/audits/blob/main/2025-03-18%20-%20OtterSec%20-%20native%20bridge.pdf) | 
 | 2025-01-31 | mezod | Halborn | [Report](https://github.com/mezo-org/audits/blob/main/2025-01-31%20-%20Halborn%20-%20mezod.pdf) | 
 | 2024-10-18 | mezod | Halborn | [Report](https://github.com/mezo-org/audits/blob/main/2024-10-18%20-%20Halborn%20-%20mezod.pdf) | 
 | 2024-08-08 | stBTC and Portal smart contracts | Thesis Defense | [Report](https://github.com/mezo-org/audits/blob/main/2024-08-08%20-%20Thesis%20Defense%20-%20stBTC%20contracts.pdf) | 
