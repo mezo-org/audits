@@ -4,6 +4,7 @@ This repository contains the collection of security audits that have been perfor
 
 | Date | Component | Auditor | Report Link |
 | ---- | --------- | ------- | ----------- |
+| 2026-01-30 | Earn | Thesis Defense | [Report](https://github.com/mezo-org/audits/blob/main/2026-01-30%20-%20Thesis%20Defense%20-%20Earn.pdf) |
 | 2025-09-10 | Native bridge | Thesis Defense | [Report](https://github.com/mezo-org/audits/blob/main/2025-09-10%20-%20Thesis%20Defense%20-%20native%20bridge.pdf) | 
 | 2025-09-08 | Native bridge | Halborn | [Report](https://github.com/mezo-org/audits/blob/main/2025-09-08%20-%20Halborn%20-%20native%20bridge.pdf) | 
 | 2025-04-15 | mUSD | Cantina | [Report](https://github.com/mezo-org/audits/blob/main/2025-04-15%20-%20Cantina%20-%20mUSD.pdf) | 
